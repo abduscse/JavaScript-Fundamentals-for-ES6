@@ -16,7 +16,7 @@ function doWork(flag) {
     if (flag) {
         const M1 = 45;
     }
-    // console.log(M1); // syntac error: M1 is not defined 
+    // console.log(M1); // syntax error: M1 is not defined 
 }
 
 doWork(true);

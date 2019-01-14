@@ -14,7 +14,6 @@ console.log(last_name); // Sattar
 console.log(twitter);  // kmas82
 line();
 
-
 // 2. right hand side define the name of the new variable to be created.
 let {
     fname: first_name
@@ -34,7 +33,6 @@ let {
 } = object;
 console.log(lname); // undefine because last_nam is not key in the object.
 line();
-
 
 // 4. destructuring complex objects.
 let obj = {
